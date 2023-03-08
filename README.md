@@ -1,2 +1,2 @@
 # Exploring-Second-Order-Equations
-Exploring Second Order Equations: An Analysis of a Simple Spring-Mass System
+This project introduces an application of second order equations, specifically for a simple spring-mass system. The project starts with Newton's second law, identifying two forces acting on the spring, force due to the spring and force of gravity, and deriving their formulas using Hooke's Law and Newton's second law. Finally, an ODE that describes the motion of the mass is obtained by equating the sum of the forces to the formula for Newton's second law.
